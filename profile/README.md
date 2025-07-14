@@ -1,4 +1,6 @@
-## Applied Robopsychology 🚀
+## Testing AI 🚀
+
+_A robot may not injure a human being or, through inaction, allow a human being to come to harm._ 
 
 <!--
 
